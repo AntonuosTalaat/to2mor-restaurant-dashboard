@@ -1,0 +1,34 @@
+[
+  {
+    "origin": [
+      "http://localhost",
+      "http://localhost:5000",
+      "http://localhost:8080",
+      "http://127.0.0.1",
+      "http://127.0.0.1:5000",
+      "http://127.0.0.1:8080",
+      "https://restaurant-dashboard-b11d2.web.app",
+      "https://restaurant-dashboard-b11d2.firebaseapp.com",
+      "https://restaurant-test-4f1f9.web.app",
+      "https://restaurant-test-4f1f9.firebaseapp.com"
+    ],
+    "method": ["GET", "HEAD", "PUT", "POST", "DELETE", "OPTIONS"],
+    "responseHeader": [
+      "Content-Type",
+      "Authorization",
+      "Content-Length",
+      "User-Agent",
+      "X-Requested-With",
+      "x-goog-resumable",
+      "x-goog-upload-command",
+      "x-goog-upload-header-content-length",
+      "x-goog-upload-header-content-type",
+      "x-goog-upload-offset",
+      "x-goog-upload-protocol",
+      "x-goog-upload-status",
+      "x-firebase-gmpid",
+      "x-firebase-storage-version"
+    ],
+    "maxAgeSeconds": 3600
+  }
+]

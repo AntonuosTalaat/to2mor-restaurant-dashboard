@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793013662521",
+    "project_id": "to2mor-test",
+    "storage_bucket": "to2mor-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793013662521:android:a1b2c3d4e5f678901234",
+        "android_client_info": {
+          "package_name": "com.example.restaurantdashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVsvyLRie4pAtqZZDX9x0oDFT_ONq4IBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

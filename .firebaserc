@@ -1,0 +1,28 @@
+{
+  "projects": {
+    "default": "to2mor-76e32"
+  },
+  "targets": {
+    "to2mor-76e32": {
+      "hosting": {
+        "prod": [
+          "restaurant-dashboard-b11d2"
+        ],
+        "dev": [
+          "restaurant-test-4f1f9" 
+        ]
+      }
+    },
+    "to2mor-test": {
+      "hosting": {
+        "dev": [
+          "restaurant-test-4f1f9"
+        ],
+        "prod": [
+          "restaurant-dashboard-b11d2"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
